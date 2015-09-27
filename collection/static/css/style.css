@@ -1,0 +1,27 @@
+body {
+  background-color: floralwhite;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  color: #008080;
+}
+
+h2 {
+  color: tomato;
+}
+
+h3 {
+  color: aquamarine;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav li :hover {
+  color: #999;
+}
